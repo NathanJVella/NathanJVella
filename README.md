@@ -1,7 +1,22 @@
-<h1 align="center">Hi 👋, I'm Nathan Vella</h1>
-<h3 align="center">Software Engineer / Game Developer</h3>
+# Nathan Vella
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nathan-vella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan-vella" height="30" width="40" /></a>
-</p>
+🚀 **Software Engineer | Game Developer**  
+I'm a passionate software engineer who loves building scalable applications using C# and .NET. When I'm not coding, you'll find me working on my side projects.
+
+## 🛠️ Skill Stack
+
+- **Languages:** C#
+- **Frameworks:** .NET
+- **Cloud & DevOps:** AWS, Redis, Docker, CI/CD
+
+## 📊 My Dev Activity
+
+![Nathan's GitHub stats](https://github-stats-extended.vercel.app/api?username=nathanjvella&show_icons=true&theme=midnight-purple&include_all_commits=true)
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=nathanjvella&theme=midnight-purple&layout=compact)
+
+## 📫 Get in Touch
+
+Feel free to connect with me:
+
+- [LinkedIn](https://www.linkedin.com/in/nathan-vella)
