@@ -7,8 +7,8 @@ I'm a passionate software engineer who loves building scalable applications usin
 
 ## 🛠️ Skill Stack
 
-- **Languages:** C#
-- **Frameworks:** .NET
+- **Languages:** C#, C++, LUA, SQL
+- **Frameworks:** .NET, EF Core
 - **Cloud & DevOps:** AWS, Redis, Docker, CI/CD
 
 ## 📊 My Dev Activity
