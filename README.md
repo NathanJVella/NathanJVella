@@ -7,15 +7,9 @@ I'm a passionate software engineer who loves building scalable applications usin
 
 ## 🛠️ Skill Stack
 
-- **Languages:** C#, C++, LUA, SQL
+- **Languages:** C#, C++, LUA, SQL, TypeScript
 - **Frameworks:** .NET, EF Core
 - **Cloud & DevOps:** AWS, Redis, Docker, CI/CD
-
-## 📊 My Dev Activity
-
-![Nathan's GitHub stats](https://github-stats-extended.vercel.app/api?username=nathanjvella&show_icons=true&theme=midnight-purple&include_all_commits=true)
-
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=nathanjvella&theme=midnight-purple&layout=compact)
 
 ## 📫 Get in Touch
 
